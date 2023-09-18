@@ -1,0 +1,116 @@
+---
+object: card
+id: f216bfb7-739d-4a3a-8ba4-6507c66aa5ca
+oracle_id: 535e2af0-7b08-4026-b1bf-87626407dd42
+multiverse_ids: []
+tcgplayer_id: 129569
+cardmarket_id: 296576
+name: Archfiend of Ifnir
+lang: en
+released_at: '2017-04-28'
+uri: https://api.scryfall.com/cards/f216bfb7-739d-4a3a-8ba4-6507c66aa5ca
+scryfall_uri: https://scryfall.com/card/pakh/78/archfiend-of-ifnir?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/2/f216bfb7-739d-4a3a-8ba4-6507c66aa5ca.jpg?1562940498
+  normal: https://cards.scryfall.io/normal/front/f/2/f216bfb7-739d-4a3a-8ba4-6507c66aa5ca.jpg?1562940498
+  large: https://cards.scryfall.io/large/front/f/2/f216bfb7-739d-4a3a-8ba4-6507c66aa5ca.jpg?1562940498
+  png: https://cards.scryfall.io/png/front/f/2/f216bfb7-739d-4a3a-8ba4-6507c66aa5ca.png?1562940498
+  art_crop: https://cards.scryfall.io/art_crop/front/f/2/f216bfb7-739d-4a3a-8ba4-6507c66aa5ca.jpg?1562940498
+  border_crop: https://cards.scryfall.io/border_crop/front/f/2/f216bfb7-739d-4a3a-8ba4-6507c66aa5ca.jpg?1562940498
+mana_cost: "{3}{B}{B}"
+cmc: 5.0
+type_line: Creature — Demon
+oracle_text: |-
+  Flying
+  Whenever you cycle or discard another card, put a -1/-1 counter on each creature your opponents control.
+  Cycling {2} ({2}, Discard this card: Draw a card.)
+power: '5'
+toughness: '4'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+- Cycling
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: c1847ece-b71e-4125-973a-465dfb35e496
+set: pakh
+set_name: Amonkhet Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/c1847ece-b71e-4125-973a-465dfb35e496
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apakh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pakh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f216bfb7-739d-4a3a-8ba4-6507c66aa5ca/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A535e2af0-7b08-4026-b1bf-87626407dd42&unique=prints
+collector_number: '78'
+digital: false
+rarity: rare
+watermark: set
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Slawomir Maniak
+artist_ids:
+- d887bc66-2779-416c-a1ff-d8720242063e
+illustration_id: 9ed68ef6-ff23-446c-b3d0-695f4adb78e4
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- buyabox
+edhrec_rank: 1642
+penny_rank: 1570
+prices:
+  usd: 
+  usd_foil: '3.03'
+  usd_etched: 
+  eur: 
+  eur_foil: '2.24'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Archfiend+of+Ifnir&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Archfiend+of+Ifnir&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Archfiend+of+Ifnir
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/129569?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Archfiend+of+Ifnir&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Archfiend+of+Ifnir&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

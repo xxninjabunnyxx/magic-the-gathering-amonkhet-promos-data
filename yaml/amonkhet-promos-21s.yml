@@ -1,0 +1,129 @@
+---
+object: card
+id: bad1a23b-8b73-43a5-be02-a37d2c0adbd6
+oracle_id: 646e68c8-cc42-4d6c-8363-a18b10a10eae
+multiverse_ids: []
+tcgplayer_id: 130660
+cardmarket_id: 297677
+name: Oketra the True
+lang: en
+released_at: '2017-04-28'
+uri: https://api.scryfall.com/cards/bad1a23b-8b73-43a5-be02-a37d2c0adbd6
+scryfall_uri: https://scryfall.com/card/pakh/21s/oketra-the-true?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/a/bad1a23b-8b73-43a5-be02-a37d2c0adbd6.jpg?1562929866
+  normal: https://cards.scryfall.io/normal/front/b/a/bad1a23b-8b73-43a5-be02-a37d2c0adbd6.jpg?1562929866
+  large: https://cards.scryfall.io/large/front/b/a/bad1a23b-8b73-43a5-be02-a37d2c0adbd6.jpg?1562929866
+  png: https://cards.scryfall.io/png/front/b/a/bad1a23b-8b73-43a5-be02-a37d2c0adbd6.png?1562929866
+  art_crop: https://cards.scryfall.io/art_crop/front/b/a/bad1a23b-8b73-43a5-be02-a37d2c0adbd6.jpg?1562929866
+  border_crop: https://cards.scryfall.io/border_crop/front/b/a/bad1a23b-8b73-43a5-be02-a37d2c0adbd6.jpg?1562929866
+mana_cost: "{3}{W}"
+cmc: 4.0
+type_line: Legendary Creature — God
+oracle_text: |-
+  Double strike, indestructible
+  Oketra the True can't attack or block unless you control at least three other creatures.
+  {3}{W}: Create a 1/1 white Warrior creature token with vigilance.
+power: '3'
+toughness: '6'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Indestructible
+- Double strike
+all_parts:
+- object: related_card
+  id: 2d1446ed-f114-421d-bb60-9aeb655e5adb
+  component: token
+  name: Warrior
+  type_line: Token Creature — Warrior
+  uri: https://api.scryfall.com/cards/2d1446ed-f114-421d-bb60-9aeb655e5adb
+- object: related_card
+  id: bad1a23b-8b73-43a5-be02-a37d2c0adbd6
+  component: combo_piece
+  name: Oketra the True
+  type_line: Legendary Creature — God
+  uri: https://api.scryfall.com/cards/bad1a23b-8b73-43a5-be02-a37d2c0adbd6
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: c1847ece-b71e-4125-973a-465dfb35e496
+set: pakh
+set_name: Amonkhet Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/c1847ece-b71e-4125-973a-465dfb35e496
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apakh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pakh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/bad1a23b-8b73-43a5-be02-a37d2c0adbd6/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A646e68c8-cc42-4d6c-8363-a18b10a10eae&unique=prints
+collector_number: 21s
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Chase Stone
+artist_ids:
+- 2d753f61-5f5b-468e-97ea-8e0fdd347340
+illustration_id: 61de5b41-0378-4afa-b8c5-046016b6191a
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 5527
+penny_rank: 3503
+prices:
+  usd: 
+  usd_foil: '6.72'
+  usd_etched: 
+  eur: 
+  eur_foil: '5.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Oketra+the+True&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Oketra+the+True&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Oketra+the+True
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/130660?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Oketra+the+True&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Oketra+the+True&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,126 @@
+---
+object: card
+id: 18c3358a-96d2-4b7c-85e8-e641ef86cedc
+oracle_id: 429eff2b-635b-43f6-b20f-82e25992c0b9
+multiverse_ids: []
+tcgplayer_id: 130671
+cardmarket_id: 297651
+name: Sandwurm Convergence
+lang: en
+released_at: '2017-04-28'
+uri: https://api.scryfall.com/cards/18c3358a-96d2-4b7c-85e8-e641ef86cedc
+scryfall_uri: https://scryfall.com/card/pakh/183s/sandwurm-convergence?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/8/18c3358a-96d2-4b7c-85e8-e641ef86cedc.jpg?1562899671
+  normal: https://cards.scryfall.io/normal/front/1/8/18c3358a-96d2-4b7c-85e8-e641ef86cedc.jpg?1562899671
+  large: https://cards.scryfall.io/large/front/1/8/18c3358a-96d2-4b7c-85e8-e641ef86cedc.jpg?1562899671
+  png: https://cards.scryfall.io/png/front/1/8/18c3358a-96d2-4b7c-85e8-e641ef86cedc.png?1562899671
+  art_crop: https://cards.scryfall.io/art_crop/front/1/8/18c3358a-96d2-4b7c-85e8-e641ef86cedc.jpg?1562899671
+  border_crop: https://cards.scryfall.io/border_crop/front/1/8/18c3358a-96d2-4b7c-85e8-e641ef86cedc.jpg?1562899671
+mana_cost: "{6}{G}{G}"
+cmc: 8.0
+type_line: Enchantment
+oracle_text: |-
+  Creatures with flying can't attack you or planeswalkers you control.
+  At the beginning of your end step, create a 5/5 green Wurm creature token.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+all_parts:
+- object: related_card
+  id: 366c01a7-6399-496b-a5a3-8be45475ce33
+  component: token
+  name: Wurm
+  type_line: Token Creature — Wurm
+  uri: https://api.scryfall.com/cards/366c01a7-6399-496b-a5a3-8be45475ce33
+- object: related_card
+  id: 18c3358a-96d2-4b7c-85e8-e641ef86cedc
+  component: combo_piece
+  name: Sandwurm Convergence
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/18c3358a-96d2-4b7c-85e8-e641ef86cedc
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: c1847ece-b71e-4125-973a-465dfb35e496
+set: pakh
+set_name: Amonkhet Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/c1847ece-b71e-4125-973a-465dfb35e496
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apakh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pakh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/18c3358a-96d2-4b7c-85e8-e641ef86cedc/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A429eff2b-635b-43f6-b20f-82e25992c0b9&unique=prints
+collector_number: 183s
+digital: false
+rarity: rare
+flavor_text: Cantankerous and territorial, sandwurms claim even the skies above their
+  dunes.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Slawomir Maniak
+artist_ids:
+- d887bc66-2779-416c-a1ff-d8720242063e
+illustration_id: 72b5f268-ae84-45e9-83b4-92ee713f490b
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 2048
+penny_rank: 2134
+prices:
+  usd: 
+  usd_foil: '5.62'
+  usd_etched: 
+  eur: 
+  eur_foil: '1.95'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sandwurm+Convergence&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sandwurm+Convergence&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sandwurm+Convergence
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/130671?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sandwurm+Convergence&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sandwurm+Convergence&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

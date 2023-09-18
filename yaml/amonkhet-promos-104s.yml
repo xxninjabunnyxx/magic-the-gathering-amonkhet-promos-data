@@ -1,0 +1,115 @@
+---
+object: card
+id: e0f07867-e0f4-4d8a-88bf-f091bffb44eb
+oracle_id: f086a82d-8dbe-4d02-a076-03789704e9d4
+multiverse_ids: []
+tcgplayer_id: 130662
+cardmarket_id: 297638
+name: Plague Belcher
+lang: en
+released_at: '2017-04-28'
+uri: https://api.scryfall.com/cards/e0f07867-e0f4-4d8a-88bf-f091bffb44eb
+scryfall_uri: https://scryfall.com/card/pakh/104s/plague-belcher?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/0/e0f07867-e0f4-4d8a-88bf-f091bffb44eb.jpg?1562937014
+  normal: https://cards.scryfall.io/normal/front/e/0/e0f07867-e0f4-4d8a-88bf-f091bffb44eb.jpg?1562937014
+  large: https://cards.scryfall.io/large/front/e/0/e0f07867-e0f4-4d8a-88bf-f091bffb44eb.jpg?1562937014
+  png: https://cards.scryfall.io/png/front/e/0/e0f07867-e0f4-4d8a-88bf-f091bffb44eb.png?1562937014
+  art_crop: https://cards.scryfall.io/art_crop/front/e/0/e0f07867-e0f4-4d8a-88bf-f091bffb44eb.jpg?1562937014
+  border_crop: https://cards.scryfall.io/border_crop/front/e/0/e0f07867-e0f4-4d8a-88bf-f091bffb44eb.jpg?1562937014
+mana_cost: "{2}{B}"
+cmc: 3.0
+type_line: Creature — Zombie Beast
+oracle_text: |-
+  Menace
+  When Plague Belcher enters the battlefield, put two -1/-1 counters on target creature you control.
+  Whenever another Zombie you control dies, each opponent loses 1 life.
+power: '5'
+toughness: '4'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Menace
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: c1847ece-b71e-4125-973a-465dfb35e496
+set: pakh
+set_name: Amonkhet Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/c1847ece-b71e-4125-973a-465dfb35e496
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apakh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pakh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e0f07867-e0f4-4d8a-88bf-f091bffb44eb/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af086a82d-8dbe-4d02-a076-03789704e9d4&unique=prints
+collector_number: 104s
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Izzy
+artist_ids:
+- 2c3d2473-ff5d-4309-8194-e0b2def2ab65
+illustration_id: 522cf556-62bc-43f4-894f-87a08a8cf50d
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 2559
+penny_rank: 4072
+prices:
+  usd: 
+  usd_foil: '6.29'
+  usd_etched: 
+  eur: 
+  eur_foil: '10.89'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Plague+Belcher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Plague+Belcher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Plague+Belcher
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/130662?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Plague+Belcher&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Plague+Belcher&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

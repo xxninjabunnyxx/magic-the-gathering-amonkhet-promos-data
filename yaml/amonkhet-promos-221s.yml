@@ -1,0 +1,130 @@
+---
+object: card
+id: f61abbc1-5e3a-4185-8532-c3dfdd54cc9b
+oracle_id: ed8184f8-f6a7-4f97-9f4e-bf72077af754
+multiverse_ids: []
+tcgplayer_id: 130634
+cardmarket_id: 297662
+name: Failure // Comply
+lang: en
+released_at: '2017-04-28'
+uri: https://api.scryfall.com/cards/f61abbc1-5e3a-4185-8532-c3dfdd54cc9b
+scryfall_uri: https://scryfall.com/card/pakh/221s/failure-comply?utm_source=api
+layout: split
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/6/f61abbc1-5e3a-4185-8532-c3dfdd54cc9b.jpg?1562941215
+  normal: https://cards.scryfall.io/normal/front/f/6/f61abbc1-5e3a-4185-8532-c3dfdd54cc9b.jpg?1562941215
+  large: https://cards.scryfall.io/large/front/f/6/f61abbc1-5e3a-4185-8532-c3dfdd54cc9b.jpg?1562941215
+  png: https://cards.scryfall.io/png/front/f/6/f61abbc1-5e3a-4185-8532-c3dfdd54cc9b.png?1562941215
+  art_crop: https://cards.scryfall.io/art_crop/front/f/6/f61abbc1-5e3a-4185-8532-c3dfdd54cc9b.jpg?1562941215
+  border_crop: https://cards.scryfall.io/border_crop/front/f/6/f61abbc1-5e3a-4185-8532-c3dfdd54cc9b.jpg?1562941215
+mana_cost: "{1}{U} // {W}"
+cmc: 3.0
+type_line: Instant // Sorcery
+colors:
+- U
+- W
+color_identity:
+- U
+- W
+keywords:
+- Aftermath
+card_faces:
+- object: card_face
+  name: Failure
+  mana_cost: "{1}{U}"
+  type_line: Instant
+  oracle_text: Return target spell to its owner's hand.
+  artist: Jason A. Engle
+  artist_id: 02e2b5de-4341-464c-8fdb-a1adbf873bc0
+  illustration_id: 9411a046-b1bb-4dee-be7a-c2eb4041e22e
+- object: card_face
+  name: Comply
+  flavor_name: ''
+  mana_cost: "{W}"
+  type_line: Sorcery
+  oracle_text: |-
+    Aftermath (Cast this spell only from your graveyard. Then exile it.)
+    Choose a card name. Until your next turn, your opponents can't cast spells with the chosen name.
+  artist: Jason A. Engle
+  artist_id: 02e2b5de-4341-464c-8fdb-a1adbf873bc0
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: c1847ece-b71e-4125-973a-465dfb35e496
+set: pakh
+set_name: Amonkhet Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/c1847ece-b71e-4125-973a-465dfb35e496
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apakh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pakh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f61abbc1-5e3a-4185-8532-c3dfdd54cc9b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aed8184f8-f6a7-4f97-9f4e-bf72077af754&unique=prints
+collector_number: 221s
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jason A. Engle
+artist_ids:
+- 02e2b5de-4341-464c-8fdb-a1adbf873bc0
+illustration_id: 9411a046-b1bb-4dee-be7a-c2eb4041e22e
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 15202
+penny_rank: 5530
+prices:
+  usd: 
+  usd_foil: '0.65'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.40'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Failure+%2F%2F+Comply&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Failure+%2F%2F+Comply&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Failure+%2F%2F+Comply
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/130634?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Failure+%2F%2F+Comply&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Failure+%2F%2F+Comply&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

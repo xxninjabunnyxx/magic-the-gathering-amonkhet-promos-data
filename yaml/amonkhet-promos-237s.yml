@@ -1,0 +1,111 @@
+---
+object: card
+id: 6a029306-10c6-4b39-bebe-a7160b6d4f4c
+oracle_id: ea750169-1f6f-40c2-96e9-55719e103a63
+multiverse_ids: []
+tcgplayer_id: 130677
+cardmarket_id: 297668
+name: Throne of the God-Pharaoh
+lang: en
+released_at: '2017-04-28'
+uri: https://api.scryfall.com/cards/6a029306-10c6-4b39-bebe-a7160b6d4f4c
+scryfall_uri: https://scryfall.com/card/pakh/237s/throne-of-the-god-pharaoh?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/a/6a029306-10c6-4b39-bebe-a7160b6d4f4c.jpg?1562914629
+  normal: https://cards.scryfall.io/normal/front/6/a/6a029306-10c6-4b39-bebe-a7160b6d4f4c.jpg?1562914629
+  large: https://cards.scryfall.io/large/front/6/a/6a029306-10c6-4b39-bebe-a7160b6d4f4c.jpg?1562914629
+  png: https://cards.scryfall.io/png/front/6/a/6a029306-10c6-4b39-bebe-a7160b6d4f4c.png?1562914629
+  art_crop: https://cards.scryfall.io/art_crop/front/6/a/6a029306-10c6-4b39-bebe-a7160b6d4f4c.jpg?1562914629
+  border_crop: https://cards.scryfall.io/border_crop/front/6/a/6a029306-10c6-4b39-bebe-a7160b6d4f4c.jpg?1562914629
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Legendary Artifact
+oracle_text: At the beginning of your end step, each opponent loses life equal to
+  the number of tapped creatures you control.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: c1847ece-b71e-4125-973a-465dfb35e496
+set: pakh
+set_name: Amonkhet Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/c1847ece-b71e-4125-973a-465dfb35e496
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apakh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pakh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6a029306-10c6-4b39-bebe-a7160b6d4f4c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aea750169-1f6f-40c2-96e9-55719e103a63&unique=prints
+collector_number: 237s
+digital: false
+rarity: rare
+flavor_text: |-
+  "When the Second Sun rests between the horns on the horizon, so begins the Hour of Revelation. Then the Hour of Glory, the Hour of Promise, and finally the Hour of Eternity."
+  —*The Accounting of Hours*
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Titus Lunter
+artist_ids:
+- b11e6b3a-f4ca-4cf1-8fd7-475696de5f5c
+illustration_id: f4161f6e-ae25-4a33-b50f-5d8e0ca4c656
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 1324
+penny_rank: 2085
+prices:
+  usd: 
+  usd_foil: '11.10'
+  usd_etched: 
+  eur: 
+  eur_foil: '7.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Throne+of+the+God-Pharaoh&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Throne+of+the+God-Pharaoh&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Throne+of+the+God-Pharaoh
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/130677?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Throne+of+the+God-Pharaoh&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Throne+of+the+God-Pharaoh&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

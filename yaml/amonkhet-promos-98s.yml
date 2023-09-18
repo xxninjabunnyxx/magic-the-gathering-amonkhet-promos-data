@@ -1,0 +1,126 @@
+---
+object: card
+id: e6d2e181-a51d-4c86-9988-076e7b8a6edc
+oracle_id: bd104c7e-311e-4b03-98d3-5f20f3a99d26
+multiverse_ids: []
+tcgplayer_id: 130654
+cardmarket_id: 297637
+name: Liliana's Mastery
+lang: en
+released_at: '2017-04-28'
+uri: https://api.scryfall.com/cards/e6d2e181-a51d-4c86-9988-076e7b8a6edc
+scryfall_uri: https://scryfall.com/card/pakh/98s/lilianas-mastery?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/6/e6d2e181-a51d-4c86-9988-076e7b8a6edc.jpg?1562938189
+  normal: https://cards.scryfall.io/normal/front/e/6/e6d2e181-a51d-4c86-9988-076e7b8a6edc.jpg?1562938189
+  large: https://cards.scryfall.io/large/front/e/6/e6d2e181-a51d-4c86-9988-076e7b8a6edc.jpg?1562938189
+  png: https://cards.scryfall.io/png/front/e/6/e6d2e181-a51d-4c86-9988-076e7b8a6edc.png?1562938189
+  art_crop: https://cards.scryfall.io/art_crop/front/e/6/e6d2e181-a51d-4c86-9988-076e7b8a6edc.jpg?1562938189
+  border_crop: https://cards.scryfall.io/border_crop/front/e/6/e6d2e181-a51d-4c86-9988-076e7b8a6edc.jpg?1562938189
+mana_cost: "{3}{B}{B}"
+cmc: 5.0
+type_line: Enchantment
+oracle_text: |-
+  Zombies you control get +1/+1.
+  When Liliana's Mastery enters the battlefield, create two 2/2 black Zombie creature tokens.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+all_parts:
+- object: related_card
+  id: e6d2e181-a51d-4c86-9988-076e7b8a6edc
+  component: combo_piece
+  name: Liliana's Mastery
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/e6d2e181-a51d-4c86-9988-076e7b8a6edc
+- object: related_card
+  id: b5bd6905-79be-4d2c-a343-f6e6a181b3e6
+  component: token
+  name: Zombie
+  type_line: Token Creature — Zombie
+  uri: https://api.scryfall.com/cards/b5bd6905-79be-4d2c-a343-f6e6a181b3e6
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: c1847ece-b71e-4125-973a-465dfb35e496
+set: pakh
+set_name: Amonkhet Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/c1847ece-b71e-4125-973a-465dfb35e496
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apakh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pakh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e6d2e181-a51d-4c86-9988-076e7b8a6edc/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abd104c7e-311e-4b03-98d3-5f20f3a99d26&unique=prints
+collector_number: 98s
+digital: false
+rarity: rare
+flavor_text: '"There are so many of them. It seems they''ve just been waiting for
+  someone to serve."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kieran Yanner
+artist_ids:
+- aa7e89ed-d294-4633-9057-ce04dacfcfa4
+illustration_id: df3684a0-68cf-4d92-8299-983841050af8
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 2525
+penny_rank: 999
+prices:
+  usd: 
+  usd_foil: '2.08'
+  usd_etched: 
+  eur: 
+  eur_foil: '2.30'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Liliana%27s+Mastery&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Liliana%27s+Mastery&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Liliana%27s+Mastery
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/130654?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Liliana%27s+Mastery&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Liliana%27s+Mastery&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
